@@ -12,7 +12,7 @@
 Assets/
 !Assets/Scripts
 
-Library
+Library/
 
 # Visual Studio cache directory
 .vs/
